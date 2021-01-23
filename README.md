@@ -19,3 +19,6 @@ EMW3080	Cortex-M4	133MHz	256KB	2MB
 EMW3165	Cortex-M4	100MHz	128KB	512KB+2MB  
 ESP8266	Tensilica L106	130MHz	160KB	1MB  
 ESP32	Xtensa LX6	240MHz	520KB	448KB(内置ROM)  
+
+## demo  
+$ git clone https://code.aliyun.com/mxos/demos.git  
